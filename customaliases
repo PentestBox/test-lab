@@ -1,0 +1,1 @@
+msfconsole="%pentestbox_ROOT%\metasploit\console.bat" $T ruby "%pentestbox_ROOT%\metasploit\apps\pro\msf3\msfconsole" $*
