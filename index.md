@@ -8,44 +8,45 @@ Hi, this is the main page of PentestLab. Pentestlab is a part of PentestBox proj
 
 Below are the credentials for mysql
 <br>
-Username: root
+<strong>Username:</strong> root
 <br>
-Password :
+<strong>Password:</strong>
 <br>
 Yes, there is no password for the mysql user root.
 
 bWAPP
 -----------------------------
-Project URL: [bWAPP](http://www.itsecgames.com/)
+<strong>Project URL:</strong> [bWAPP](http://www.itsecgames.com/)
 <br>
-Author:
+<strong>Author:</strong>
 <br>
 bWAPP, or a buggy web application, is a free and open source deliberately insecure web application. It helps security enthusiasts, developers and students to discover and to prevent web vulnerabilities.
 bWAPP prepares one to conduct successful penetration testing and ethical hacking projects.
 <br>
-bWAPP Username: bee
+<strong>bWAPP Username:</strong> bee
 <br>
-bWAPP Password: bug
+<strong><strong>bWAPP Password:</strong> bug
 
 DVWA
 ------------------
 
-Project URL: [dvwa](http://www.dvwa.co.uk/)
+<strong>Project URL:</strong> [dvwa](http://www.dvwa.co.uk/)
 <br>
-Author: 
+<strong>Author:</strong>
 <br>
 Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment.
 <br>
-dvwa Username: admin
+<strong>dvwa Username:</strong> admin
 <br>
-dvwa Password: password
-<br>
+<strong>dvwa Password:</strong> password
+
+
 DVWS
 --------------------
 
-Project URL[DVWS](https://github.com/snoopythesecuritydog/dvws)
+<strong>Project URL:</strong> [DVWS](https://github.com/snoopythesecuritydog/dvws)
 <br>
-Author: 
+<strong>Author:</strong> 
 <br>
 Damn Vulnerable Web Services is a vulnerable testing environment that can be used to learn real world web service vulnerabilities. The aim of this project is to aid security professionals in testing their skills and tools in a legal environment.
 <br>
@@ -54,9 +55,9 @@ No Username and Password required.
 Mutillidae
 ------------------------
 <br>
-Project URL: [Mutillidae](https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project)
+<strong>Project URL:</strong> [Mutillidae](https://www.owasp.org/index.php/OWASP_Mutillidae_2_Project)
 <br>
-Author: 
+<strong>Author:</strong> 
 <br>
 OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiest.
 <br>
@@ -65,9 +66,9 @@ No Username and Password required.
 XVWA
 ------------------------
 
-Project URL: [XVWA](https://github.com/s4n7h0/xvwa)
+Project URL:</strong> [XVWA](https://github.com/s4n7h0/xvwa)
 <br>
-Author: 
+<strong>Author:</strong> 
 <br>
 XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 <br>
