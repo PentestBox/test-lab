@@ -25,7 +25,7 @@ bWAPP prepares one to conduct successful penetration testing and ethical hacking
 <br>
 <strong>bWAPP Username:</strong> bee
 <br>
-<strong><strong>bWAPP Password:</strong> bug
+<strong>bWAPP Password:</strong> bug
 
 DVWA
 ------------------
@@ -66,7 +66,7 @@ No Username and Password required.
 XVWA
 ------------------------
 
-Project URL:</strong> [XVWA](https://github.com/s4n7h0/xvwa)
+<strong>Project URL:</strong> [XVWA](https://github.com/s4n7h0/xvwa)
 <br>
 <strong>Author:</strong> 
 <br>
